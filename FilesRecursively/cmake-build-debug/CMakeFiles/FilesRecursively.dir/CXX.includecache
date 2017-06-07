@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cs.ucu.edu.ua/CLionProjects/FilesRecursively/main.cpp
+iostream
+-
+dirent.h
+-
+string.h
+-
+sys/stat.h
+-
+
